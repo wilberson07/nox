@@ -1,0 +1,38 @@
+*{
+    padding:0;
+    margin:0 ;
+    box-sizing: border-box;
+}
+head{
+    width: 100;
+    background-color: blue;
+    display: flex;
+    aling-lex:;
+    justify-content: space-around;
+}
+logo-imagem{
+    width: 50px;
+    height: 50;
+    background-color: black;
+    border: 25;
+}
+conteiner-logo{
+    display: flex;
+    align-items:center;
+}
+logo-texto{
+    margin-left: 20px;
+    color: white;
+}
+menu li{
+    display: inline-block;
+}
+menu li a {
+    font-size:20px ;
+    text-decoration:nome ;
+    color: white;
+    text-transform:uppercase;
+    background-color: black;
+    padding: 10px 25px;
+    border-radius: 10px;
+}
